@@ -115,9 +115,9 @@ public class backtrackingTest {
 		String str="1234";
 		combi(str,a,b,0);
 		
-//		show(x);
-//		System.out.println("");
-//		show(y);
+		show(x);
+		System.out.println("");
+		show(y);
 	}
 }
 
